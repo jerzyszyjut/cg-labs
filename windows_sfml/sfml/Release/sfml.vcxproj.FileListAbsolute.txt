@@ -1,0 +1,2 @@
+C:\Users\student.NMKZLLAB\Downloads\visual2019\visual2019\sfml\Release\sfml.exe
+E:\GRAF3d\visual2019\visual2019\sfml\Release\sfml.exe

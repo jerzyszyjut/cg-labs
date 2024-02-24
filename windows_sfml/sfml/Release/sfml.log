@@ -1,0 +1,11 @@
+﻿  Source.cpp
+E:\GRAF3d\visual2019\visual2019\sfml\OBJ_Loader.h(652,25): warning C4018: '<': signed/unsigned mismatch
+E:\GRAF3d\visual2019\visual2019\sfml\OBJ_Loader.h(689,22): warning C4018: '<': signed/unsigned mismatch
+E:\GRAF3d\visual2019\visual2019\sfml\OBJ_Loader.h(695,23): warning C4018: '<': signed/unsigned mismatch
+E:\GRAF3d\visual2019\visual2019\sfml\OBJ_Loader.h(949,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\GRAF3d\visual2019\visual2019\sfml\Source.cpp(115,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 823 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sfml.vcxproj -> E:\GRAF3d\visual2019\visual2019\sfml\Release\sfml.exe
